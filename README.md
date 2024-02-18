@@ -1,2 +1,1 @@
-# SQL-and-Power-BI
-Pizza Sales Report
+Created a dashboard for analysing the report of Pizza Sales
